@@ -15,7 +15,7 @@ I am a Cybersecurity student at Texas A&M University-San Antonio, focusing on ha
 - **Core Skills:** Network Security, Incident Response Concepts
 
 ### 📩 Connect With Me
-- **LinkedIn:** [linkedin.com/in/heriberto-martinez-iii](https://www.linkedin.com/in/heriberto-martinez-iii) *(Update with your actual URL suffix if different)*
+- **LinkedIn:** 
 - **GitHub:** You are already here! 
 
 ---
