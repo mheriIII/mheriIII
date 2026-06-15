@@ -6,7 +6,7 @@ I am a Cybersecurity undergraduate student at Texas A&M University-San Antonio, 
 
 ---
 
-## 💻 Current Engineering Focus
+## 💻 Current Focus
 
 * **Zero-Trust Host Intrusion Detection:** Developed a command-line driven Host Intrusion Detection System (HIDS) agent in Python that implements local state serialization (SHA-256) and administrative cryptographic re-baselining to mitigate defensive evasion tactics.
 * **Enterprise SOC Telemetry Integration:** Optimizing a home Security Operations Center (SOC) lab utilizing Wazuh SIEM across Ubuntu and Kali Linux nodes. Currently engineering pipeline workflows to ingest localized HIDS logs (`security_alerts.log`) into automated SIEM analytics.
